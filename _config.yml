@@ -1,1 +1,9 @@
 theme: jekyll-theme-hacker
+title: pepelu's blog
+description: Share what I know
+SEOTitle: pepelu|blog|lubei|鲁琲
+
+gems: [jekyll-paginate]
+
+paginate: 5
+patinate_path: "blog/page:num"
